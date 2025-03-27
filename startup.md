@@ -14,7 +14,8 @@
     - [Redis](#redis)
     - [Celery](#celery)
 
-
+### More:
+[Update Guide](update.md)
 
 
 # Github
