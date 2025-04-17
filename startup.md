@@ -308,3 +308,12 @@ sudo supervisorctl status proj_celery
 sudo supervisorctl status proj_celerybeat
 
 ```
+
+
+
+# Docker
+
+docker compose down -v
+git pull origin main
+docker compose -f docker-compose.yaml up -d --build
+
