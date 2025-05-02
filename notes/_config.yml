@@ -3,3 +3,6 @@ logo: logo.png
 repository:
   url: https://github.com/88Blang/deployment-guide
   branch: main
+execute:
+    execute_notebooks: force 
+    stderr_output: remove-warn
