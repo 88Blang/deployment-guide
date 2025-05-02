@@ -1,6 +1,6 @@
 
 
-
+# Jupyter Styling
 
 
 [Cheat Sheet](https://jupyterbook.org/en/stable/reference/cheatsheet.html#reference-documents)
