@@ -1,7 +1,7 @@
 
 
 
-# Steps
+# Django with Supervisor
 
 1. [Github](#github)
 2. [Python](#python)
