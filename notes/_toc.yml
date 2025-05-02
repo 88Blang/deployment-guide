@@ -6,6 +6,7 @@ parts:
     - file: startup
     - file: local
     - file: deploy_lambda
+    - file: update
   - caption: Jupyter
     chapters:
     - file: jupyter
