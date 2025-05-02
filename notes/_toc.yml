@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Deploy
+    chapters:
+    - file: startup
+    - file: local
+    - file: deploy_lambda
+    - file: chain_class
+  - caption: Jupyter
+    chapters:
+    - file: jupyter
